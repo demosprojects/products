@@ -79,13 +79,12 @@
     "imagen": "https://res.cloudinary.com/dl2tftoum/image/upload/v1771375065/mkiazlicl6vdvscmysfj.webp",
     "destacado": false
   },
-  
   {
     "nombre": "Moscú simple",
     "descripcion": "Pan, mayonesa, lechuga, tomate, carne, mozzarella, bacon, huevo",
     "precio": 8500,
     "categoria": "Burgers",
-    "imagen": "https://res.cloudinary.com/dl2tftoum/image/upload/v1771800685/okvoxnkm3hfayxb7ufrn.webp",
+    "imagen": "https://res.cloudinary.com/dl2tftoum/image/upload/v1771825815/qien3is0rg2qm9ohhzfv.webp",
     "destacado": false
   },
   {
@@ -93,9 +92,10 @@
     "descripcion": "Pan, mayonesa, lechuga, tomate, carne, mozzarella, bacon, huevo",
     "precio": 9500,
     "categoria": "Burgers",
-    "imagen": "https://res.cloudinary.com/dl2tftoum/image/upload/v1771800685/okvoxnkm3hfayxb7ufrn.webp",
+    "imagen": "https://res.cloudinary.com/dl2tftoum/image/upload/v1771825815/qien3is0rg2qm9ohhzfv.webp",
     "destacado": false
   },
+
   {
     "nombre": "Yankee doble",
     "descripcion": "Pan, mayonesa, doble carne, doble cheddar, bacon.",
@@ -118,14 +118,6 @@
     "precio": 29900,
     "categoria": "Para compartir",
     "imagen": "https://res.cloudinary.com/dl2tftoum/image/upload/v1771212698/q2gcsdytm9uu3akerwuf.webp",
-    "destacado": false
-  },
-  {
-    "nombre": "Picada Mas que Burgers",
-    "descripcion": "Pollo frito, papas, dos pinchos de salchicha, bombas de papas rellenas, dos mini burgers, dos toping (cheddar, mayonesa)",
-    "precio": 29900,
-    "categoria": "Para compartir",
-    "imagen": "https://res.cloudinary.com/dl2tftoum/image/upload/v1771212547/z85jnk9tdq2fhgkigehk.webp",
     "destacado": false
   },
   {
@@ -214,14 +206,6 @@
     "precio": 12900,
     "categoria": "Kids",
     "imagen": "https://res.cloudinary.com/dl2tftoum/image/upload/v1771540791/t6ovevubfvt8agtdsxgj.webp",
-    "destacado": false
-  },
-  {
-    "nombre": "Pinchos de salchicha",
-    "descripcion": "Dos pinchos de salchicha rebozados más papas",
-    "precio": 7500,
-    "categoria": "Kids",
-    "imagen": "https://res.cloudinary.com/dl2tftoum/image/upload/v1771541021/eywam2yskru6topxmkya.webp",
     "destacado": false
   },
   {
@@ -593,5 +577,3 @@
     "destacado": false
   }
 ]
-
-
